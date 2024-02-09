@@ -3,8 +3,12 @@
 
 # REQUIREMENTS
 Step 1. Install Python version 3.6.8 interpreter <br>
-Step 2. install streamlit
+Step 2. install streamlit <br>
 Step 3. install scikit-learn 
 
 # ADVANTAGES
 Early Detection of Autism disorder by answering 10 simple questions
+
+# Don't forget to STAR the Repo ⭐
+
+# Feel free to Ping me 😉
